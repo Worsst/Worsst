@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Redo HAHAHA.gif" width="350" alt="Redo GIF">
+</p>
+
+
 # Mark Joseph Oren
 
 ### Computer Engineering Student | Aspiring Developer

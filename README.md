@@ -35,7 +35,7 @@
 
 ---
 <p align="center">
-  <img src="./Vesna.gif" width="350" alt="Vesna GIF">
+  <img src="./Vesna.gif" width="300" alt="Vesna GIF">
 </p>
 
 ### About Me

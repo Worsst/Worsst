@@ -18,7 +18,7 @@ I'm a Computer Engineering student at ICCT Colleges passionate about technology,
 
 ### Find Me Here
 
-- **Portfolio:** [Visit my website](https://worsst.github.io/Worsst/)
+- **Portfolio:** [Visit My Portfolio](https://worsst.github.io/Mark-Joseph-s-portfolio/)
 - **GitHub:** [@Worsst](https://github.com/Worsst)
 
 ---

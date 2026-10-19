@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="./mark-joseph-banner.gif" alt="Mark Joseph Oren — Computer Engineering Student at ICCT" width="100%" />
+  <img src="./lv_0_20261013005755.gif" alt="Mark Joseph Oren — Computer Engineering Student at ICCT" width="100%" />
 </p>
-
-
-
-
-
 
 
 # Mark Joseph Oren

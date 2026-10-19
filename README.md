@@ -64,6 +64,10 @@ I'm a Computer Engineering student at ICCT Colleges who enjoys exploring new tec
 
   <br/>
 
-  *Learning, building, and improving one project at a time.*
+  *Aanhin mo ang Rinnegan, kung ang kapalit naman nito ay Rin is gone.*
+  <p align="center">
+  <img src="./Obito.gif" width="350" alt="Obito GIF">
+</p>
+
 
 </div>
